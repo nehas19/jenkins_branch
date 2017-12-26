@@ -17,7 +17,7 @@
      	<sonar.host.url>http://172.27.59.22:9080</sonar.host.url>
      </properties> -->
 
-  <distributionManagement>
+  <!--<distributionManagement>
     <repository>
         <id>central</id>
         <name>NS-releases</name>
@@ -28,7 +28,7 @@
         <name>NS-snapshots</name>
         <url>http://172.27.59.88:8081/artifactory/POC_NS</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement>-->
   <dependencies>
   
 
